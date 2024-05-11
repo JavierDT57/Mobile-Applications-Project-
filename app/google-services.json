@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563051129883",
+    "project_id": "juego-de-matematicas-a7cc1",
+    "storage_bucket": "juego-de-matematicas-a7cc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563051129883:android:2fa1f0c16c2093f85a5cbe",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkEM3Mc7TpEzlEQTbOBKLV8a2aBi-q330"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
